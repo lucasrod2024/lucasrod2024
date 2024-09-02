@@ -11,6 +11,7 @@
 
 ## 🛠️ Projects
 - [Portfolio Website](https://lucasrod2024.github.io/Portfolio/)
+- [Password Generator](https://lucasrod2024.github.io/Password-Generator/)
 
 ## 📚 Experience & Education
 - Technical Course in Business Management
