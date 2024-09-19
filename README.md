@@ -1,13 +1,13 @@
 # Hello, I'm Lucas Rodrigues 👋
 
 - 🌍 Based in Natal, Brazil
-- 💻 Frontend Developer with a passion for technology and programming
-- 🌱 Currently learning Node.js and PostgreSQL
+- 💻 Fullstack Developer with a passion for technology and programming
+- 🌱 Currently learning Next.js and Docker
 
 ## 🚀 Skills and Technologies
 - **Languages:** JavaScript, TypeScript, HTML, CSS
 - **Frameworks:** React.js, Bootstrap, Sass, Zapier, Webflow
-- **Tools:** Git, VSCode, Node.js
+- **Tools:** Git, VSCode, Node.js, PostgreSQL
 
 ## 🛠️ Projects
 - [Portfolio Website](https://lucasrod2024.github.io/Portfolio/)
